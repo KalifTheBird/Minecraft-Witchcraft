@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "witchcraft:block/book_of_shadows" },
+    "facing=east":  { "model": "witchcraft:block/book_of_shadows" },
+    "facing=south": { "model": "witchcraft:block/book_of_shadows" },
+    "facing=west":  { "model": "witchcraft:block/book_of_shadows" }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "The First Circle",
+  "type": "achievement",
+  "secret": false,
+  "summary": "A personal record of the first circle you successfully worked.",
+  "pages": [
+    "You drew a boundary, gave it purpose, and the world answered. A circle is no longer theory once you have stood inside one and felt it become real."
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Body Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "The witch is both vessel and source. Body magic governs the power held within the living witch.",
+  "pages": [
+    "Learn the resting measure of your magic, how it is spent, how it returns, and what follows when the body is driven beyond safe limits."
+  ],
+  "prerequisites": []
+}

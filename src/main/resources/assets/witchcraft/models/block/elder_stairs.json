@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "witchcraft:block/elder_planks",
+    "top": "witchcraft:block/elder_planks",
+    "side": "witchcraft:block/elder_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "witchcraft:rowan_logs"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:rowan_planks",
+    "count": 4
+  }
+}

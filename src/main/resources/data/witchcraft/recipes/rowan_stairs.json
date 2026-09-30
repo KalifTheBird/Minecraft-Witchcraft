@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "P  ",
+    "PP ",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "witchcraft:rowan_planks"
+    }
+  },
+  "result": {
+    "item": "witchcraft:rowan_stairs",
+    "count": 4
+  }
+}

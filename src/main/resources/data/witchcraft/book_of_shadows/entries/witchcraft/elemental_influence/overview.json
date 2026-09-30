@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Elemental Influence",
+  "type": "lore",
+  "secret": false,
+  "summary": "A witch may influence the elements without mistaking influence for ownership.",
+  "pages": [
+    "Air yields to motion and force. Fire answers ignition and extinguishing. Other influences may reveal themselves in time."
+  ],
+  "prerequisites": []
+}

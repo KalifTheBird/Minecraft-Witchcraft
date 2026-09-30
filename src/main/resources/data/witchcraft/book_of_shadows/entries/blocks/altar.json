@@ -1,0 +1,14 @@
+{
+  "chapter": "blocks",
+  "title": "The Witches' Altar",
+  "type": "guide",
+  "secret": false,
+  "summary": "A reservoir and focus for ritual magic.",
+  "pages": [
+    "An altar stores power apart from the witch. A basic altar holds 500 magic and slowly regenerates what it has spent.",
+    "For rituals, one nearby altar is chosen rather than stacking several together. When an altar can bear an entire ritual cost itself, some power may overflow into the witch."
+  ],
+  "prerequisites": [
+    "witchcraft:witchcraft/body_magic/body_magic"
+  ]
+}

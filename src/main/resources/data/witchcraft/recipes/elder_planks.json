@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "witchcraft:elder_logs"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:elder_planks",
+    "count": 4
+  }
+}

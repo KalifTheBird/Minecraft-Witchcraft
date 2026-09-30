@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "witchcraft:elder_planks"
+    }
+  },
+  "result": {
+    "item": "witchcraft:elder_slab",
+    "count": 6
+  }
+}

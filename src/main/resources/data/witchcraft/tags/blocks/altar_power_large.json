@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:amethyst_block",
+    "minecraft:budding_amethyst",
+    "minecraft:sculk_catalyst",
+    "minecraft:beacon"
+  ]
+}

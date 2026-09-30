@@ -1,0 +1,11 @@
+{
+  "chapter": "brews",
+  "title": "Pale Moonlight",
+  "type": "recipe",
+  "secret": false,
+  "summary": "A lunar tincture used by rites of night.",
+  "pages": [
+    "Pale Moonlight is an offering associated with the deliberate turning of day toward night. Its value lies as much in correspondence as in substance."
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "natural_world",
+  "title": "Elder",
+  "type": "plant",
+  "secret": false,
+  "summary": "Old wood with old associations.",
+  "pages": [
+    "Elder is a tree of age, passage, and consequence. It can be shaped into wand wood, but old wood is rarely without old rules."
+  ],
+  "prerequisites": []
+}

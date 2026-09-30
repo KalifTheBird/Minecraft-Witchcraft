@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "witchcraft:item/howl_of_the_wild"
+  }
+}

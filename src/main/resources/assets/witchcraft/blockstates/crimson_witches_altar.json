@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,part=center": {
+      "model": "witchcraft:block/crimson_witches_altar_center"
+    },
+    "facing=north,part=left": {
+      "model": "witchcraft:block/crimson_witches_altar_left"
+    },
+    "facing=north,part=right": {
+      "model": "witchcraft:block/crimson_witches_altar_right"
+    },
+    "facing=east,part=center": {
+      "model": "witchcraft:block/crimson_witches_altar_center",
+      "y": 90
+    },
+    "facing=east,part=left": {
+      "model": "witchcraft:block/crimson_witches_altar_left",
+      "y": 90
+    },
+    "facing=east,part=right": {
+      "model": "witchcraft:block/crimson_witches_altar_right",
+      "y": 90
+    },
+    "facing=south,part=center": {
+      "model": "witchcraft:block/crimson_witches_altar_center",
+      "y": 180
+    },
+    "facing=south,part=left": {
+      "model": "witchcraft:block/crimson_witches_altar_left",
+      "y": 180
+    },
+    "facing=south,part=right": {
+      "model": "witchcraft:block/crimson_witches_altar_right",
+      "y": 180
+    },
+    "facing=west,part=center": {
+      "model": "witchcraft:block/crimson_witches_altar_center",
+      "y": 270
+    },
+    "facing=west,part=left": {
+      "model": "witchcraft:block/crimson_witches_altar_left",
+      "y": 270
+    },
+    "facing=west,part=right": {
+      "model": "witchcraft:block/crimson_witches_altar_right",
+      "y": 270
+    }
+  }
+}

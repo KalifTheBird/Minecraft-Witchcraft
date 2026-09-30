@@ -1,0 +1,13 @@
+{
+  "type": "witchcraft:cauldron",
+  "ingredients": [
+    { "item": "witchcraft:white_ritual_chalk" },
+    { "item": "minecraft:coal" },
+    { "item": "minecraft:ink_sac" },
+    { "item": "witchcraft:pale_moonlight" },
+    { "item": "witchcraft:wood_ash" }
+  ],
+  "result": { "item": "witchcraft:black_ritual_chalk", "count": 1 },
+  "magic_cost": 35,
+  "altar_cost": 70
+}

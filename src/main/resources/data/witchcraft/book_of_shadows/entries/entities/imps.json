@@ -1,0 +1,14 @@
+{
+  "chapter": "entities",
+  "title": "Imps",
+  "type": "creature",
+  "secret": false,
+  "summary": "Familiars, messengers, and crooked little teachers.",
+  "pages": [
+    "An Imp should not be mistaken for a quest marker with horns. It knows pieces of the road and offers them in the language of familiars: warnings, riddles, favors, and half-explanations.",
+    "What an Imp teaches can become writing in the Book of Shadows, but the Book records the lesson; it does not replace the teacher."
+  ],
+  "prerequisites": [
+    "witchcraft:path_of_night/the_shadow_man"
+  ]
+}

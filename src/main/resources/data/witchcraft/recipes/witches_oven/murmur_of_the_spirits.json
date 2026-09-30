@@ -1,0 +1,26 @@
+{
+  "type": "witchcraft:witches_oven",
+  "bottle": {
+    "item": "witchcraft:tincture_bottle"
+  },
+  "reagent": {
+    "item": "witchcraft:elder_sapling"
+  },
+  "water": 1,
+  "cooking_time": 200,
+  "result": {
+    "item": "witchcraft:murmur_of_the_spirits",
+    "count": 1
+  },
+  "byproducts": [
+    {
+      "item": "witchcraft:wood_ash",
+      "count": 1
+    },
+    {
+      "item": "witchcraft:elder_berries",
+      "count": 1
+    }
+  ],
+  "result_chance": 0.65
+}

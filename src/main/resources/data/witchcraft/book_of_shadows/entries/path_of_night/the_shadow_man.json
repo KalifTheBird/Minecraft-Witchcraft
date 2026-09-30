@@ -1,0 +1,12 @@
+{
+  "chapter": "path_of_night",
+  "title": "The Shadow Man",
+  "type": "lore",
+  "secret": false,
+  "summary": "The first teacher at the threshold of witchcraft.",
+  "pages": [
+    "The Shadow Man does not hand a witch every answer. He opens the door and watches to see whether they cross it.",
+    "What he gives first is not mastery, but permission: the right to begin learning what the world usually keeps hidden."
+  ],
+  "prerequisites": []
+}

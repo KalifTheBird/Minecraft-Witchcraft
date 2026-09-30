@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#minecraft:leaves",
+    "minecraft:grass",
+    "minecraft:fern",
+    "minecraft:moss_block",
+    "minecraft:moss_carpet",
+    "witchcraft:rowan_leaves",
+    "witchcraft:rowan_berry_leaves",
+    "witchcraft:elder_leaves",
+    "witchcraft:elder_berry_leaves"
+  ]
+}

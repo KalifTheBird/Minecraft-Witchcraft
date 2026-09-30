@@ -1,0 +1,12 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "witchcraft:glimmerstone_shard"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:glimmerstone_dust",
+    "count": 2
+  }
+}

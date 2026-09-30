@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.toxicteddie.witchcraft.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "witchcraft.refmap.json",
+  "mixins": [
+    "LivingEntityVirtualHandMixin"
+  ],
+  "client": [
+    "client.GuiHotbarMixin",
+    "client.HumanoidModelFireCastingMixin",
+    "client.HumanoidModelTelekinesisCastingMixin",
+    "client.HumanoidModelWandAltarDrawMixin",
+    "client.ItemRendererWandTipMixin",
+    "client.HumanoidArmorLayerWitchesHatMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

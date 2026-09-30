@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "witchcraft:block/elder_wood"
+    },
+    "axis=z": {
+      "model": "witchcraft:block/elder_wood_horizontal",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "witchcraft:block/elder_wood_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

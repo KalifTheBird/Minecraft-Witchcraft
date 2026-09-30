@@ -1,0 +1,26 @@
+{
+  "type": "witchcraft:witches_oven",
+  "bottle": {
+    "item": "witchcraft:tincture_bottle"
+  },
+  "reagent": {
+    "item": "minecraft:bamboo"
+  },
+  "water": 1,
+  "cooking_time": 200,
+  "result": {
+    "item": "witchcraft:whistle_of_the_wind",
+    "count": 1
+  },
+  "byproducts": [
+    {
+      "item": "witchcraft:wood_ash",
+      "count": 1
+    },
+    {
+      "item": "minecraft:string",
+      "count": 1
+    }
+  ],
+  "result_chance": 0.65
+}

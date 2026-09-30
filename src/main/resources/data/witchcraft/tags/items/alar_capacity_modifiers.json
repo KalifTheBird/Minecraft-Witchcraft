@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:amethyst_shard",
+    "witchcraft:glimmerstone_shard",
+    "witchcraft:gloomstone_shard"
+  ]
+}

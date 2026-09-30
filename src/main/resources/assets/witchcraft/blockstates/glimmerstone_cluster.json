@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "witchcraft:block/glimmerstone_cluster"
+    },
+    "facing=down": {
+      "model": "witchcraft:block/glimmerstone_cluster",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "witchcraft:block/glimmerstone_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "witchcraft:block/glimmerstone_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "witchcraft:block/glimmerstone_cluster",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "witchcraft:block/glimmerstone_cluster",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

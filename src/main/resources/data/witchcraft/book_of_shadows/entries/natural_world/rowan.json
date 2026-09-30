@@ -1,0 +1,11 @@
+{
+  "chapter": "natural_world",
+  "title": "Rowan",
+  "type": "plant",
+  "secret": false,
+  "summary": "A protective tree with a long affinity for witchcraft.",
+  "pages": [
+    "Rowan carries a protective character and can also be worked into wand wood. Its berries and timber should not be mistaken for ordinary forest material once properly prepared."
+  ],
+  "prerequisites": []
+}

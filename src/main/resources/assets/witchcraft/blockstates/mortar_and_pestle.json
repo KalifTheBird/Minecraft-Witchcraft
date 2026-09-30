@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "witchcraft:block/mortar"
+    },
+    "facing=east": {
+      "model": "witchcraft:block/mortar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "witchcraft:block/mortar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "witchcraft:block/mortar",
+      "y": 270
+    }
+  }
+}

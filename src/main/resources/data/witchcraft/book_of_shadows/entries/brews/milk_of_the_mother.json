@@ -1,0 +1,11 @@
+{
+  "chapter": "brews",
+  "title": "Milk of the Mother",
+  "type": "recipe",
+  "secret": false,
+  "summary": "A nurturing tincture used in transformation and calling.",
+  "pages": [
+    "Milk of the Mother appears wherever witchcraft asks the world to nourish, form, or yield something hidden."
+  ],
+  "prerequisites": []
+}

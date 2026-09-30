@@ -1,0 +1,18 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "minecraft:rose_bush"
+    },
+    {
+      "item": "minecraft:rose_bush"
+    },
+    {
+      "item": "minecraft:rose_bush"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 6
+  }
+}

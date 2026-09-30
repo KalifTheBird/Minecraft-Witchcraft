@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Energy Flow",
+  "type": "lore",
+  "secret": false,
+  "summary": "Magic moves between witch, altar, working, and world.",
+  "pages": [
+    "Study how power is drawn, channelled, shared, and spent. The source of a working matters as much as its cost."
+  ],
+  "prerequisites": []
+}

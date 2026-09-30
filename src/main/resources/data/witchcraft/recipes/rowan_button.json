@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "witchcraft:rowan_planks"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:rowan_button"
+  }
+}

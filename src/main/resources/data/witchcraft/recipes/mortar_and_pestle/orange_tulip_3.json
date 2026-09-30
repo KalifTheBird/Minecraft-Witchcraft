@@ -1,0 +1,18 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "item": "minecraft:orange_tulip"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 3
+  }
+}

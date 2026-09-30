@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "witchcraft:block/elder_sapling"
+  },
+  "render_type": "cutout"
+}

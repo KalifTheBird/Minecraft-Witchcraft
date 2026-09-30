@@ -1,0 +1,12 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "minecraft:lily_of_the_valley"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 1
+  }
+}

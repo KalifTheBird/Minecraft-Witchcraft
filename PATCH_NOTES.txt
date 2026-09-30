@@ -1,0 +1,9 @@
+Fixes clipped Book of Shadows chapter/subsection labels.
+
+- Chapter and subsection links now begin near the top of the page under the title/divider.
+- Label rows are taller and labels render up to two wrapped lines instead of discarding every line after the first.
+- Label wrap width uses the available physical page space.
+- Prose renderer wrap width is aligned with BookContentLayout's 78px pagination width.
+- Home geometry and page-turn timing are untouched.
+
+DELETE: nothing.

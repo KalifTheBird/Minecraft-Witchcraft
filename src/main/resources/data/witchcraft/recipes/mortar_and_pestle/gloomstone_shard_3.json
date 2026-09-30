@@ -1,0 +1,18 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "witchcraft:gloomstone_shard"
+    },
+    {
+      "item": "witchcraft:gloomstone_shard"
+    },
+    {
+      "item": "witchcraft:gloomstone_shard"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:gloomstone_dust",
+    "count": 8
+  }
+}

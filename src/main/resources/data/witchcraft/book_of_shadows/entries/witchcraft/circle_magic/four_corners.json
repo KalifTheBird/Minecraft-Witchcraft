@@ -1,0 +1,14 @@
+{
+  "chapter": "witchcraft",
+  "title": "Rite of the Four Corners",
+  "type": "ritual",
+  "secret": false,
+  "summary": "Calling the elemental corners in the proper order.",
+  "pages": [
+    "A white ritual circle is not complete because candles happen to be lit. Order matters. Each corner is called deliberately until the circle recognizes the witch's boundary.",
+    "Uncalling reverses the work. A circle opened carelessly is a door left carelessly open."
+  ],
+  "prerequisites": [
+    "witchcraft:items/wands"
+  ]
+}

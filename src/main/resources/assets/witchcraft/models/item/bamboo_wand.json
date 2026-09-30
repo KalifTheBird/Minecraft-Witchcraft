@@ -1,0 +1,11 @@
+{
+  "parent": "witchcraft:item/bamboo_wand_rest",
+  "overrides": [
+    {
+      "predicate": {
+        "witchcraft:casting": 1.0
+      },
+      "model": "witchcraft:item/bamboo_wand_casting"
+    }
+  ]
+}

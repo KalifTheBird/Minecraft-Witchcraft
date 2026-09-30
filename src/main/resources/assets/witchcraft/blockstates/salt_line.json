@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "north=false,east=false,south=false,west=false": {
+      "model": "witchcraft:block/salt_line_none"
+    },
+    "north=false,east=false,south=false,west=true": {
+      "model": "witchcraft:block/salt_line_w"
+    },
+    "north=false,east=false,south=true,west=false": {
+      "model": "witchcraft:block/salt_line_s"
+    },
+    "north=false,east=false,south=true,west=true": {
+      "model": "witchcraft:block/salt_line_sw"
+    },
+    "north=false,east=true,south=false,west=false": {
+      "model": "witchcraft:block/salt_line_e"
+    },
+    "north=false,east=true,south=false,west=true": {
+      "model": "witchcraft:block/salt_line_ew"
+    },
+    "north=false,east=true,south=true,west=false": {
+      "model": "witchcraft:block/salt_line_es"
+    },
+    "north=false,east=true,south=true,west=true": {
+      "model": "witchcraft:block/salt_line_esw"
+    },
+    "north=true,east=false,south=false,west=false": {
+      "model": "witchcraft:block/salt_line_n"
+    },
+    "north=true,east=false,south=false,west=true": {
+      "model": "witchcraft:block/salt_line_nw"
+    },
+    "north=true,east=false,south=true,west=false": {
+      "model": "witchcraft:block/salt_line_ns"
+    },
+    "north=true,east=false,south=true,west=true": {
+      "model": "witchcraft:block/salt_line_nsw"
+    },
+    "north=true,east=true,south=false,west=false": {
+      "model": "witchcraft:block/salt_line_ne"
+    },
+    "north=true,east=true,south=false,west=true": {
+      "model": "witchcraft:block/salt_line_new"
+    },
+    "north=true,east=true,south=true,west=false": {
+      "model": "witchcraft:block/salt_line_nes"
+    },
+    "north=true,east=true,south=true,west=true": {
+      "model": "witchcraft:block/salt_line_nesw"
+    }
+  }
+}

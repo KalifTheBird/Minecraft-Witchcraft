@@ -1,0 +1,26 @@
+{
+  "type": "witchcraft:witches_oven",
+  "bottle": {
+    "item": "witchcraft:tincture_bottle"
+  },
+  "reagent": {
+    "item": "witchcraft:rowan_sapling"
+  },
+  "water": 1,
+  "cooking_time": 200,
+  "result": {
+    "item": "witchcraft:blessing_of_the_goddess",
+    "count": 1
+  },
+  "byproducts": [
+    {
+      "item": "witchcraft:wood_ash",
+      "count": 1
+    },
+    {
+      "item": "witchcraft:rowan_berries",
+      "count": 1
+    }
+  ],
+  "result_chance": 0.65
+}

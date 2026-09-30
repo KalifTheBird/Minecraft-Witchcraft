@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Black Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "Black magic reaches toward depletion, corruption, coercion, and dangerous sacrifice.",
+  "pages": [
+    "Power does not become harmless because a witch understands its price. Some workings leave the body changed long after the circle is gone."
+  ],
+  "prerequisites": []
+}

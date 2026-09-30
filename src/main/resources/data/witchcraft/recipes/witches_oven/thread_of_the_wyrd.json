@@ -1,0 +1,26 @@
+{
+  "type": "witchcraft:witches_oven",
+  "bottle": {
+    "item": "witchcraft:tincture_bottle"
+  },
+  "reagent": {
+    "item": "minecraft:warped_fungus"
+  },
+  "water": 1,
+  "cooking_time": 200,
+  "result": {
+    "item": "witchcraft:thread_of_the_wyrd",
+    "count": 1
+  },
+  "byproducts": [
+    {
+      "item": "witchcraft:wood_ash",
+      "count": 1
+    },
+    {
+      "item": "minecraft:warped_roots",
+      "count": 1
+    }
+  ],
+  "result_chance": 0.65
+}

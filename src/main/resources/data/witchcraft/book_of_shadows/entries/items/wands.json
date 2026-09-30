@@ -1,0 +1,14 @@
+{
+  "chapter": "items",
+  "title": "Wands",
+  "type": "guide",
+  "secret": false,
+  "summary": "A wand directs rather than creates magic.",
+  "pages": [
+    "A wand is a relationship between wood, preparation, and the witch holding it. It is especially useful for directing stored power and commanding enchanted objects.",
+    "A wand can draw from a bound altar into the witch, and it can command a Book of Shadows to rise, follow, wait, or travel to a chosen surface."
+  ],
+  "prerequisites": [
+    "witchcraft:blocks/altar"
+  ]
+}

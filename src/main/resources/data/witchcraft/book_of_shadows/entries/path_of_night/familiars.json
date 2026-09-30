@@ -1,0 +1,11 @@
+{
+  "chapter": "path_of_night",
+  "title": "Familiars",
+  "type": "lore",
+  "secret": false,
+  "summary": "A familiar is a spirit called into companionship with a witch, bound not as a servant but as a magical counterpart.",
+  "pages": [
+    "Among the first teachings granted upon the Path of Night is the calling of a familiar. Through ritual, a witch may invite a spirit to take form, name it, and bind the beginning of a lasting magical bond."
+  ],
+  "prerequisites": ["witchcraft:path_of_night/the_witch"]
+}

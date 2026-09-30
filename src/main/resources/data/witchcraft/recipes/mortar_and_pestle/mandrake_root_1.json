@@ -1,0 +1,12 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "witchcraft:mandrake_root"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:mandrake_powder",
+    "count": 2
+  }
+}

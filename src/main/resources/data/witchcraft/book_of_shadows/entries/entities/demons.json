@@ -1,0 +1,11 @@
+{
+  "chapter": "entities",
+  "title": "Demons",
+  "type": "creature",
+  "secret": false,
+  "summary": "Infernal beings that do not share mortal blood.",
+  "pages": [
+    "Demons answer to different rules than mortals. Their bodies, blood, and hearts carry properties that ordinary creatures do not."
+  ],
+  "prerequisites": []
+}

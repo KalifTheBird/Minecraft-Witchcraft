@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "witchcraft:oak_witches_altar",
+    "witchcraft:spruce_witches_altar",
+    "witchcraft:birch_witches_altar",
+    "witchcraft:jungle_witches_altar",
+    "witchcraft:acacia_witches_altar",
+    "witchcraft:dark_oak_witches_altar",
+    "witchcraft:mangrove_witches_altar",
+    "witchcraft:cherry_witches_altar",
+    "witchcraft:bamboo_witches_altar",
+    "witchcraft:crimson_witches_altar",
+    "witchcraft:warped_witches_altar",
+    "witchcraft:rowan_witches_altar",
+    "witchcraft:elder_witches_altar"
+  ]
+}

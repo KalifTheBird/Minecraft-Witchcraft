@@ -1,0 +1,11 @@
+{
+  "chapter": "path_of_night",
+  "title": "The Witch",
+  "type": "lore",
+  "secret": false,
+  "summary": "A witch is not merely one who performs magic. The craft changes the relationship between body, will, and the unseen world.",
+  "pages": [
+    "To become a witch is to step willingly onto the Path of Night. From that moment, magic is no longer something observed from afar; it is carried within the body and answered through intention."
+  ],
+  "prerequisites": ["witchcraft:path_of_night/the_shadow_man"]
+}

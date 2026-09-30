@@ -1,0 +1,26 @@
+{
+  "type": "witchcraft:witches_oven",
+  "bottle": {
+    "item": "witchcraft:tincture_bottle"
+  },
+  "reagent": {
+    "item": "minecraft:acacia_sapling"
+  },
+  "water": 1,
+  "cooking_time": 200,
+  "result": {
+    "item": "witchcraft:dew_of_the_eternal",
+    "count": 1
+  },
+  "byproducts": [
+    {
+      "item": "witchcraft:wood_ash",
+      "count": 1
+    },
+    {
+      "item": "minecraft:orange_dye",
+      "count": 1
+    }
+  ],
+  "result_chance": 0.65
+}

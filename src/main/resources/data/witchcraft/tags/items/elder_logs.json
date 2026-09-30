@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "witchcraft:elder_log",
+    "witchcraft:elder_wood",
+    "witchcraft:stripped_elder_log",
+    "witchcraft:stripped_elder_wood"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Glimmer and Gloom",
+  "type": "ritual",
+  "secret": false,
+  "summary": "The transmutation of crystal between luminous and darkened states.",
+  "pages": [
+    "Amethyst can be persuaded into Glimmerstone under a white circle crowded with candlelight and the proper essences. Other rites can corrupt Glimmerstone into Gloomstone."
+  ],
+  "prerequisites": []
+}

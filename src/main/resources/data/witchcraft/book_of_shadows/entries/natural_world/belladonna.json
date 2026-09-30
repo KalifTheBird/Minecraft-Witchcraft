@@ -1,0 +1,11 @@
+{
+  "chapter": "natural_world",
+  "title": "Belladonna",
+  "type": "plant",
+  "secret": false,
+  "summary": "A dangerous flower prized in witchcraft.",
+  "pages": [
+    "Belladonna belongs to the old language of poison, sleep, thresholds, and altered sight. Its usefulness never makes it harmless."
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,44 @@
+{
+  "chapters": [
+    {
+      "id": "book_of_shadows",
+      "title": "Book of Shadows",
+      "order": 0
+    },
+    {
+      "id": "path_of_night",
+      "title": "Down the Path of Night",
+      "order": 10
+    },
+    {
+      "id": "witchcraft",
+      "title": "Witchcraft",
+      "order": 20
+    },
+    {
+      "id": "natural_world",
+      "title": "Magic & the Natural World",
+      "order": 30
+    },
+    {
+      "id": "brews",
+      "title": "Brews",
+      "order": 40
+    },
+    {
+      "id": "items",
+      "title": "Items",
+      "order": 50
+    },
+    {
+      "id": "blocks",
+      "title": "Blocks",
+      "order": 60
+    },
+    {
+      "id": "entities",
+      "title": "Entities",
+      "order": 70
+    }
+  ]
+}

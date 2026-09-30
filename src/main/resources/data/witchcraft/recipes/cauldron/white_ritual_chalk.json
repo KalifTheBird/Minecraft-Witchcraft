@@ -1,0 +1,14 @@
+{
+  "type": "witchcraft:cauldron",
+  "ingredients": [
+    { "item": "minecraft:bone_meal" },
+    { "item": "minecraft:clay_ball" },
+    { "item": "witchcraft:murmur_of_the_spirits" },
+    { "item": "minecraft:calcite" },
+    { "item": "witchcraft:blessing_of_the_goddess" },
+    { "item": "witchcraft:wood_ash" }
+  ],
+  "result": { "item": "witchcraft:white_ritual_chalk", "count": 1 },
+  "magic_cost": 30,
+  "altar_cost": 60
+}

@@ -1,0 +1,12 @@
+{
+  "chapter": "witchcraft",
+  "title": "The Hollowing",
+  "type": "ritual",
+  "secret": false,
+  "summary": "A rite that empties a witch completely.",
+  "pages": [
+    "This page was not meant to be taught. The Hollowing strips body magic to nothing and leaves Magical Exhaust in its wake.",
+    "Four Glimmerstone Clusters stand beyond the small black circle. A lamb dies inside the boundary. The target's blood names the witch to be emptied. One altar must surrender exactly 150 power."
+  ],
+  "prerequisites": []
+}

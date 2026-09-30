@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "witchcraft:rowan_planks"
+    }
+  },
+  "result": {
+    "item": "witchcraft:rowan_pressure_plate"
+  }
+}

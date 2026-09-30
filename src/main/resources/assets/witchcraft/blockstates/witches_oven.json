@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "witchcraft:block/witches_oven"
+    },
+    "lit=true": {
+      "model": "witchcraft:block/witches_oven_on"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "witchcraft:cauldron",
+  "ingredients": [
+    { "item": "witchcraft:white_ritual_chalk" },
+    { "item": "minecraft:ender_pearl" },
+    { "item": "minecraft:amethyst_shard" },
+    { "item": "witchcraft:thread_of_the_wyrd" },
+    { "item": "witchcraft:wood_ash" }
+  ],
+  "result": { "item": "witchcraft:ender_ritual_chalk", "count": 1 },
+  "magic_cost": 40,
+  "altar_cost": 80
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "natural_world",
+  "title": "Hemlock",
+  "type": "plant",
+  "secret": false,
+  "summary": "A poisonous plant used with deliberate care.",
+  "pages": [
+    "Hemlock is a plant of endings. Treat it with the same respect you would give a blade: useful because it is dangerous, not despite it."
+  ],
+  "prerequisites": []
+}

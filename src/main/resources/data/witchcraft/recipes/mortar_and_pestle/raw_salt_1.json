@@ -1,0 +1,12 @@
+{
+  "type": "witchcraft:mortar_and_pestle",
+  "ingredients": [
+    {
+      "item": "witchcraft:raw_salt"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:salt",
+    "count": 1
+  }
+}

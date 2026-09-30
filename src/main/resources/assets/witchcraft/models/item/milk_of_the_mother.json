@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "witchcraft:item/milk_of_the_mother"
+  }
+}

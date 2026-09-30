@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Grey Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "Grey magic lives between restraint and transgression.",
+  "pages": [
+    "It concerns balance, exchange, temperance, and transformations whose nature cannot be named wholly light or dark."
+  ],
+  "prerequisites": []
+}

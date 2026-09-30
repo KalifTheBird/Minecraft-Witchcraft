@@ -1,0 +1,13 @@
+{
+  "chapter": "witchcraft",
+  "title": "Rite of Temperance",
+  "type": "ritual",
+  "secret": false,
+  "summary": "A measured release of dangerous excess magic.",
+  "pages": [
+    "Temperance is restraint made ritual. It is meant for power that has risen too far but has not yet crossed into the states where restraint can no longer safely answer it."
+  ],
+  "prerequisites": [
+    "witchcraft:path_of_night/magical_states"
+  ]
+}

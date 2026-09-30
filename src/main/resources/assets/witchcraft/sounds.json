@@ -1,0 +1,35 @@
+{
+  "ritual_flame_loop": {
+    "subtitle": "subtitles.witchcraft.ritual_flame_loop",
+    "sounds": [
+      {
+        "name": "witchcraft:ritual_flame_loop",
+        "stream": true,
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "spell_impact": {
+    "subtitle": "subtitles.witchcraft.spell_impact",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/cave/cave1",
+        "volume": 0.72,
+        "pitch": 1.0,
+        "weight": 4
+      },
+      {
+        "name": "minecraft:ambient/cave/cave3",
+        "volume": 0.58,
+        "pitch": 1.04,
+        "weight": 2
+      },
+      {
+        "name": "minecraft:ambient/cave/cave6",
+        "volume": 0.62,
+        "pitch": 0.96,
+        "weight": 2
+      }
+    ]
+  }
+}

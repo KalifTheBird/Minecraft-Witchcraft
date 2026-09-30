@@ -1,0 +1,12 @@
+{
+  "chapter": "path_of_night",
+  "title": "Your First Night",
+  "type": "guide",
+  "secret": false,
+  "summary": "The first steps after initiation.",
+  "pages": [
+    "Do not rush to become powerful. Learn the difference between your own magic, the power stored by an altar, and the influences you borrow from the world.",
+    "Listen when a familiar warns you. Imps are messengers before they are servants; what sounds like a riddle may be an instruction you are not yet ready to understand."
+  ],
+  "prerequisites": []
+}

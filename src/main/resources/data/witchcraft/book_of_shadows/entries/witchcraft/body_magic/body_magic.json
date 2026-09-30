@@ -1,0 +1,14 @@
+{
+  "chapter": "witchcraft",
+  "title": "Body Magic",
+  "type": "mechanic",
+  "secret": false,
+  "summary": "The living reserve of magic carried by a witch.",
+  "pages": [
+    "A rested witch naturally settles at 100 body magic. This is the body's equilibrium, not its maximum.",
+    "Magic above rest can be useful, but excess has consequences. Elemental influence does not normally consume body magic; the body instead acts as the gate that allows influence to be shaped."
+  ],
+  "prerequisites": [
+    "witchcraft:path_of_night/your_first_night"
+  ]
+}

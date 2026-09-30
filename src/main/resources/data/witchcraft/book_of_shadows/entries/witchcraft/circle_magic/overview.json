@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Circle Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "A circle is boundary, language, and vessel.",
+  "pages": [
+    "Its shape, color, offerings, catalysts, and order give structure to rites that would otherwise have nowhere to take hold."
+  ],
+  "prerequisites": []
+}

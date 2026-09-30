@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "White Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "White magic favors ordering, calling, illumination, and deliberate change.",
+  "pages": [
+    "Its name describes a tradition of working, not a promise that every consequence will be gentle."
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:logs",
+    "minecraft:flowering_azalea",
+    "minecraft:azalea",
+    "minecraft:spore_blossom",
+    "minecraft:large_fern",
+    "minecraft:vine",
+    "minecraft:lily_pad"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "brews",
+  "title": "Dark Unction",
+  "type": "recipe",
+  "secret": false,
+  "summary": "A preparation capable of awakening a mundane cauldron to witchcraft.",
+  "pages": [
+    "Dark Unction is not merely poured into a recipe. It changes the vessel itself. A vanilla cauldron treated correctly can become a Witches' Cauldron."
+  ],
+  "prerequisites": []
+}

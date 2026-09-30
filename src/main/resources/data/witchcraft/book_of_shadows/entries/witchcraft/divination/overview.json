@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Divination",
+  "type": "lore",
+  "secret": false,
+  "summary": "Divination seeks knowledge through signs, visions, and sympathetic instruments.",
+  "pages": [
+    "Crystal, omen, and scrying may reveal what ordinary sight cannot, though revelation is not the same as certainty."
+  ],
+  "prerequisites": []
+}

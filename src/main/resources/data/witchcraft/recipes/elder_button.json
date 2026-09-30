@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "witchcraft:elder_planks"
+    }
+  ],
+  "result": {
+    "item": "witchcraft:elder_button"
+  }
+}

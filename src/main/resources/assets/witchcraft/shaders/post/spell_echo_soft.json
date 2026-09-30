@@ -1,0 +1,15 @@
+{
+  "targets": ["spell_echo_swap"],
+  "passes": [
+    {
+      "name": "witchcraft:spell_echo_soft",
+      "intarget": "minecraft:main",
+      "outtarget": "spell_echo_swap"
+    },
+    {
+      "name": "minecraft:blit",
+      "intarget": "spell_echo_swap",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Spellcraft",
+  "type": "lore",
+  "secret": false,
+  "summary": "Spellcraft shapes intent into repeatable magical acts.",
+  "pages": [
+    "Charms, wards, enchantments, curses, and hexes belong here as the craft grows."
+  ],
+  "prerequisites": []
+}

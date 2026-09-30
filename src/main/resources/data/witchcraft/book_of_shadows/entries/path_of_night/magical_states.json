@@ -1,0 +1,14 @@
+{
+  "chapter": "path_of_night",
+  "title": "States of Magic",
+  "type": "mechanic",
+  "secret": false,
+  "summary": "Resting, Charged, Overcharged, Festering, Supercritical, and Exhausted.",
+  "pages": [
+    "Resting begins at 100. Charged power begins above it. Greater accumulation eventually becomes Overcharged, then Festering.",
+    "At extreme levels magic becomes Supercritical. At the other end lies Exhaustion: a witch emptied so thoroughly that even an altar may refuse to answer until recovery."
+  ],
+  "prerequisites": [
+    "witchcraft:witchcraft/body_magic/body_magic"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "witchcraft:cauldron",
+  "ingredients": [
+    { "item": "witchcraft:white_ritual_chalk" },
+    { "item": "minecraft:blaze_powder" },
+    { "item": "minecraft:magma_cream" },
+    { "item": "witchcraft:scream_of_the_pit" },
+    { "item": "witchcraft:wood_ash" }
+  ],
+  "result": { "item": "witchcraft:infernal_ritual_chalk", "count": 1 },
+  "magic_cost": 45,
+  "altar_cost": 90
+}

@@ -1,0 +1,13 @@
+{
+  "chapter": "witchcraft",
+  "title": "Rite of Night",
+  "type": "ritual",
+  "secret": false,
+  "summary": "A white-circle rite that turns day toward night.",
+  "pages": [
+    "Prepare a small white circle with Oxeye Daisy and Pale Moonlight. The white candle gives way to the black as the rite answers."
+  ],
+  "prerequisites": [
+    "witchcraft:brews/pale_moonlight"
+  ]
+}

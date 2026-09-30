@@ -1,0 +1,13 @@
+{
+  "type": "witchcraft:cauldron",
+  "ingredients": [
+    { "item": "witchcraft:white_ritual_chalk" },
+    { "item": "minecraft:glowstone_dust" },
+    { "item": "minecraft:gold_nugget" },
+    { "item": "witchcraft:dawns_first_light" },
+    { "item": "witchcraft:wood_ash" }
+  ],
+  "result": { "item": "witchcraft:golden_ritual_chalk", "count": 1 },
+  "magic_cost": 40,
+  "altar_cost": 80
+}

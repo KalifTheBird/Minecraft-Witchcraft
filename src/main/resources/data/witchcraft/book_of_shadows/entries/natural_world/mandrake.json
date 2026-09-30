@@ -1,0 +1,11 @@
+{
+  "chapter": "natural_world",
+  "title": "Mandrake",
+  "type": "plant",
+  "secret": false,
+  "summary": "A living root with a voice and a temper.",
+  "pages": [
+    "Mandrake is more creature than crop. Its root carries potent sympathetic properties and should be handled as something alive, not merely harvested."
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "witchcraft:item/acacia_wand_rest",
+  "overrides": [
+    {
+      "predicate": {
+        "witchcraft:casting": 1.0
+      },
+      "model": "witchcraft:item/acacia_wand_casting"
+    }
+  ]
+}

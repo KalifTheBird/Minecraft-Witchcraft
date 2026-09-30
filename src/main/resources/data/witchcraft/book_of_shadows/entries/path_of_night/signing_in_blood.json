@@ -1,0 +1,12 @@
+{
+  "chapter": "path_of_night",
+  "title": "Signing in Blood",
+  "type": "lore",
+  "secret": false,
+  "summary": "A Book of Shadows does not belong to a witch until the witch gives it a name written in their own blood.",
+  "pages": [
+    "Blood is not merely an ingredient. It is identity made physical. A true Book of Shadows must know whose memories it is meant to keep.",
+    "Sign the book with your own blood. From that moment, its true writing belongs to you alone. Other hands may touch the cover, but the knowledge within is yours."
+  ],
+  "prerequisites": []
+}

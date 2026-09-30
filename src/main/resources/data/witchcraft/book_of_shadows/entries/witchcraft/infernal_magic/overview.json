@@ -1,0 +1,11 @@
+{
+  "chapter": "witchcraft",
+  "title": "Infernal Magic",
+  "type": "lore",
+  "secret": false,
+  "summary": "Infernal magic concerns demons, imps, and powers that answer from beyond ordinary nature.",
+  "pages": [
+    "To call is to invite an answer. To bargain is to give the answer a reason to remain."
+  ],
+  "prerequisites": []
+}
